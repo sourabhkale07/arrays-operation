@@ -1,4 +1,4 @@
-# arrays-operation
+# Reverse the given array 
 This is a demo repository
 
 
